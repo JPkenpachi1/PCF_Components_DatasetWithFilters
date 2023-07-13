@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\PowerAppsTools_pcfjp\\PowerAppsTools_pcfjp.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JP\\Desktop\\dataset - try 3\\dataset - try 3.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JP\\Desktop\\dataset - try 3\\dataset - try 3.pcfproj",
+        "projectName": "dataset - try 3",
+        "projectPath": "C:\\Users\\JP\\Desktop\\dataset - try 3\\dataset - try 3.pcfproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\PowerAppsTools_pcfjp\\PowerAppsTools_pcfjp.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\PowerAppsTools_pcfjp\\PowerAppsTools_pcfjp.cdsproj",
+        "projectName": "PowerAppsTools_pcfjp",
+        "projectPath": "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\PowerAppsTools_pcfjp\\PowerAppsTools_pcfjp.cdsproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JP\\Desktop\\dataset - try 3\\obj\\PowerAppsTools_pcfjp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\JP\\Desktop\\dataset - try 3\\dataset - try 3.pcfproj": {
+                "projectPath": "C:\\Users\\JP\\Desktop\\dataset - try 3\\dataset - try 3.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

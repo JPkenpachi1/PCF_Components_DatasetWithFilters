@@ -1,0 +1,2 @@
+C:\Users\JP\Desktop\dataset - try 3\datasetry4\obj\Debug\datasetry4.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\dataset - try 3\datasetry4\obj\Debug\datasetry4.cdsproj.CoreCompileInputs.cache

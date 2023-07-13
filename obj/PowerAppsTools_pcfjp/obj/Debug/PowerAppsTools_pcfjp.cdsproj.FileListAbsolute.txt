@@ -1,0 +1,2 @@
+C:\Users\JP\Desktop\dataset - try 3\obj\PowerAppsTools_pcfjp\obj\Debug\PowerAppsTools_pcfjp.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\dataset - try 3\obj\PowerAppsTools_pcfjp\obj\Debug\PowerAppsTools_pcfjp.cdsproj.CoreCompileInputs.cache

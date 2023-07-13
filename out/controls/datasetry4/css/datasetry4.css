@@ -1,0 +1,189 @@
+.search-container {
+    margin-bottom: 10px;
+    width: 1024px;
+  }
+  
+
+.search-box:hover{
+  border-color: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.searchBoxContainer{
+  position: relative;
+}
+.search-icon{
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+ 
+  background-size: cover;
+  cursor: pointer;
+}
+
+.header{
+ padding: 6.5px;
+ background-color:#aa2faa;
+ color: #ffffff;
+ text-align: left;
+ border:none;
+ margin: 4px;
+ font-weight: 700;
+ letter-spacing: 1px;
+ height: 1%;
+ 
+}
+.table_t{
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width: 1024px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border: none;
+  margin:4px ;
+  height: 200px;
+
+}
+.tbrw{
+  border: none;
+  padding: 5px;
+  letter-spacing: 0.5px;
+  transition: background-color 0.3s ease;
+}
+.tbrw:hover{
+  background-color: #f5f5f5f5;
+}
+.tbrw:nth-of-type(even){
+  background-color: #f3f3f3;
+}
+
+
+.tbrw:last-of-type{
+  border-bottom: 2px solid #790579;
+}
+input:focus{
+outline: none;
+border-color: #bb37bb;
+box-shadow: 0 0 5px #f3e6f3;
+}
+.search-box{
+  padding: 10px;
+  margin-bottom: 2px;
+  width: 200px;
+  border-radius: 5px;
+  font-size: 1rem;
+  border: none;
+  background-color: #ffffff;
+  color: #3f3f3f;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.errorCell{
+  border-bottom:2px solid #790579 ;
+  font-size: 16px;
+  font-weight: 600;
+  height: 5vh;
+  margin-top: 10px;
+
+ 
+
+
+}
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.fade-in.active {
+  opacity: 1;
+}
+
+/* chatgpt css */
+/* Style the date input */
+input[type="date"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+/* Style the date input when it's focused */
+input[type="date"]:focus {
+  outline: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the date input when it has a value */
+input[type="date"]:not(:placeholder-shown) {
+  background-color: #fff;
+}
+
+/* Style the clear button */
+input[type="date"]::-webkit-clear-button {
+  display: block;
+  width: 10px;
+  height: 10px;
+  position: relative;
+  top: -16px;
+  right: -4px;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Style the clear button when it's hovered */
+input[type="date"]::-webkit-clear-button:hover,input[type="date"]::-moz-clear:hover {
+  background-color: #ccc;
+}
+
+/* Style the week number */
+input[type="date"]::-webkit-calendar-picker-indicator
+ {
+  padding: 5px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+/* Style the week number when it's hovered */
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the animation when the input is focused */
+input[type="date"]:focus {
+  animation-name: input-focus;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes input-focus {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.tableContainer{
+  width: 100%;
+  scroll-behavior: smooth;
+  padding: 10px;
+  margin: 10px;
+ 
+}

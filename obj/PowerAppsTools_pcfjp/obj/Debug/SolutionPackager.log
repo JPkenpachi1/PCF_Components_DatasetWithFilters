@@ -1,0 +1,19 @@
+2023-04-06 17:47:11.497 - Info	
+Packing C:\Users\JP\Desktop\dataset - try 3\obj\PowerAppsTools_pcfjp\obj\Debug\Metadata to bin\Debug\PowerAppsTools_pcfjp.zip
+
+2023-04-06 17:47:11.531 - Info	Processing Component: Entities
+2023-04-06 17:47:11.542 - Info	Processing Component: Roles
+2023-04-06 17:47:11.549 - Info	Processing Component: Workflows
+2023-04-06 17:47:11.550 - Info	Processing Component: FieldSecurityProfiles
+2023-04-06 17:47:11.551 - Info	Processing Component: Templates
+2023-04-06 17:47:11.554 - Info	Processing Component: EntityMaps
+2023-04-06 17:47:11.555 - Info	Processing Component: EntityRelationships
+2023-04-06 17:47:11.656 - Info	Processing Component: OrganizationSettings
+2023-04-06 17:47:11.657 - Info	Processing Component: optionsets
+2023-04-06 17:47:11.658 - Info	Processing Component: CustomControls
+2023-04-06 17:47:11.690 - Info	 - sample.datasetry4
+2023-04-06 17:47:11.714 - Info	Processing Component: SolutionPluginAssemblies
+2023-04-06 17:47:11.717 - Info	Processing Component: EntityDataProviders
+2023-04-06 17:47:11.862 - Info	
+Unmanaged Pack complete.
+

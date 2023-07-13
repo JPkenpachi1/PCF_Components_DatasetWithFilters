@@ -1,0 +1,4 @@
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain - completed components\dataset - try 3\obj\PowerAppsTools_samples\obj\Debug\PowerAppsTools_samples.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain - completed components\dataset - try 3\obj\PowerAppsTools_samples\obj\Debug\PowerAppsTools_samples.cdsproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\dataset - try 3\obj\PowerAppsTools_samples\obj\Debug\PowerAppsTools_samples.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\dataset - try 3\obj\PowerAppsTools_samples\obj\Debug\PowerAppsTools_samples.cdsproj.CoreCompileInputs.cache

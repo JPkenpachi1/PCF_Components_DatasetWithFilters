@@ -1,0 +1,2 @@
+C:\Users\JP\Desktop\dataset - try 3\solution\obj\Debug\solution.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\dataset - try 3\solution\obj\Debug\solution.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+2023-07-08 17:36:06.905 - Info	
+Packing C:\Users\JP\Desktop\dataset - try 3\datasetry4\obj\Debug\Metadata to bin\Debug\datasetry4.zip
+
+2023-07-08 17:36:06.916 - Info	Processing Component: Entities
+2023-07-08 17:36:06.920 - Info	Processing Component: Roles
+2023-07-08 17:36:06.925 - Info	Processing Component: Workflows
+2023-07-08 17:36:06.926 - Info	Processing Component: FieldSecurityProfiles
+2023-07-08 17:36:06.926 - Info	Processing Component: Templates
+2023-07-08 17:36:06.927 - Info	Processing Component: EntityMaps
+2023-07-08 17:36:06.927 - Info	Processing Component: EntityRelationships
+2023-07-08 17:36:06.931 - Info	Processing Component: OrganizationSettings
+2023-07-08 17:36:06.931 - Info	Processing Component: optionsets
+2023-07-08 17:36:06.932 - Info	Processing Component: CustomControls
+2023-07-08 17:36:06.935 - Info	Processing Component: SolutionPluginAssemblies
+2023-07-08 17:36:06.936 - Info	Processing Component: EntityDataProviders
+2023-07-08 17:36:06.962 - Info	
+Unmanaged Pack complete.
+

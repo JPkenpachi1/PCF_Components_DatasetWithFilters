@@ -1,0 +1,47 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean --noColor --buildMode development --outDir C:\Users\JP\Desktop\dataset - try 3\out\controls --buildSource MSBuild
+  
+  [10:19:55 am] [clean]  Initializing...
+  [10:19:55 am] [clean]  Cleaning build outputs...
+  [10:19:55 am] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: obj\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_samples.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build --noColor --buildMode development --outDir C:\Users\JP\Desktop\dataset - try 3\out\controls --buildSource MSBuild
+  
+  [10:20:02 am] [build]  Initializing...
+  [10:20:02 am] [build]  Validating manifest...
+  [10:20:02 am] [build]  Validating control...
+  [10:20:05 am] [build]  Running ESLint...
+  [10:20:06 am] [build]  Generating manifest types...
+  DeprecationWarning: 'createInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+  [10:20:06 am] [build]  Generating design types...
+  [10:20:06 am] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  asset bundle.js 671 KiB [emitted] (name: main)
+  runtime modules 1.07 KiB 6 modules
+  modules by path ./node_modules/moment/locale/*.js 422 KiB
+    ./node_modules/moment/locale/af.js 2.31 KiB [built] [code generated]
+    + 134 modules
+  modules by path ./node_modules/style-loader/dist/runtime/*.js 5.84 KiB
+    ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js 2.42 KiB [built] [code generated]
+    + 5 modules
+  modules by path ./datasetry4/ 13.9 KiB
+    ./datasetry4/index.ts 8.63 KiB [built] [code generated]
+    + 2 modules
+  modules by path ./node_modules/css-loader/dist/runtime/*.js 2.31 KiB
+    ./node_modules/css-loader/dist/runtime/noSourceMaps.js 64 bytes [built] [code generated]
+    ./node_modules/css-loader/dist/runtime/api.js 2.25 KiB [built] [code generated]
+  ./node_modules/moment/moment.js 141 KiB [built] [code generated]
+  ./node_modules/moment/locale/ sync ^\.\/.*$ 3.21 KiB [optional] [built] [code generated]
+  webpack 5.76.3 compiled successfully in 6784 ms
+  [10:20:13 am] [build]  Generating build outputs...
+  [10:20:13 am] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_samples.zip
+  Solution: bin\Debug\PowerAppsTools_samples.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.
